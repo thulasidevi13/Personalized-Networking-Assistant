@@ -1,0 +1,21 @@
+[
+    {
+        "event_description": "I am attending a tech startup event to meet software engineers and founders",
+        "user_interests": [
+            "Python",
+            "Artificial Intelligence",
+            "App Development"
+        ],
+        "extracted_themes": [
+            "education",
+            "AI",
+            "sustainability"
+        ],
+        "generated_suggestions": [
+            "https://www.university.edu/~machie/AI-and-the-future.html",
+            "https://www.university.edu/~machie/App-Development-and-Social-Intelligence.html",
+            "https://www.university.edu/~machie/AI-and-the-future.html"
+        ],
+        "timestamp": "2026-07-05T22:19:00.679524"
+    }
+]
